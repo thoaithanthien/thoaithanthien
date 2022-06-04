@@ -77,7 +77,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="FhamtThoai-youtube" />
   </a>
   <a href="https://www.reddit.com/user/thoaithanthien/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.pn" alt="FhamtThoai-reddit" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="FhamtThoai-reddit" />
   </a>
   <a href="https://www.instagram.com/__kuon_0/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="FhamtThoai-instagram" />
