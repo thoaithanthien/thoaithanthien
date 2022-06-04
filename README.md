@@ -73,11 +73,11 @@
   <a href="https://www.facebook.com/thanthien.thoai.39/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="FhamtThoai-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
+  <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="FhamtThoai-youtube" />
   </a>
   <a href="https://www.reddit.com/user/thoaithanthien/" target="blank">
-    <img src="https://img.icons8.com/bubbles/344/reddit.png" alt="FhamtThoai-reddit" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.pn" alt="FhamtThoai-reddit" />
   </a>
   <a href="https://www.instagram.com/__kuon_0/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="FhamtThoai-instagram" />
