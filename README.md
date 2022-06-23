@@ -68,7 +68,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://linktr.ee/thoaithanthien" target="blank">
-    <img width="90" height="90" src="images/1.png" alt="FhamtThoai-blog" />
+    <img width="90" height="90" src="images/Kuon.png" alt="FhamtThoai-blog" />
   </a>
   <a href="https://www.facebook.com/thanthien.thoai.39/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="FhamtThoai-facebook" />
